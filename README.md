@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ksh322
 - 👀 I’m interested in web, mobile app programming
-- 🌱 I’m currently learning python, js, java, web frameworks
-- 📫 How to reach me stevekim97g@gmail.com
+- 🌱 I’m currently learning python for coding test , js and java for web 
+- 📫 How to reach me : stevekim97g@gmail.com
 
 <!---
 ksh322/ksh322 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
