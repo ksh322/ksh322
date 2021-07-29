@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ksh322
-- 👀 I’m interested in web, mobile app developing
+- 👀 I’m interested in web, mobile app programming
 - 🌱 I’m currently learning python, js, java, web frameworks
 - 📫 How to reach me stevekim97g@gmail.com
 
