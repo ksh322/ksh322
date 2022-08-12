@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ksh322
-- 👀 I’m interested in web, mobile app programming
-- 🌱 I’m currently learning python for coding test , js and java for web 
+- 👀 I’m interested in javascript es6, react ,node js
+- 🌱 I’m currently learning python for coding test , docker , k8s
 - 📫 How to reach me : stevekim97g@gmail.com
 
 <!---
