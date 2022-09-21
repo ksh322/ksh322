@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ksh322
-- 👀 I’m interested in javascript es6, react ,node js
-- 🌱 I’m currently learning python for coding test , docker , k8s
+- 👀 I’m interested in javascript es6, react js and python for coding test 
+- 🌱 I’m currently learning docker , k8s
 - 📫 How to reach me : stevekim97g@gmail.com
 
 <!---
