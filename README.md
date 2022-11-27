@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @ksh322
 - 👀 I’m interested in cloud Infra Engineer
-- 🌱 I’m currently focusing Python, Algorithm, javascript and React js
+- 🌱 I’m currently learning Python, Algorithm, javascript and React js
 - 📫 How to reach me : stevekim97g@gmail.com
 
-동국대학교 정보통신공학과 : 2017~2023 <br>
+동국대학교 컴퓨터정보통신공학부 : 2017~2023 <br>
 카카오클라우드스쿨 엔지니어: 2022.06 ~ 2022.12
-
 
 
 <!---
