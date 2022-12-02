@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Python, Algorithm, javascript and React js
 - 📫 How to reach me : stevekim97g@gmail.com
 
-동국대학교 컴퓨터정보통신공학부 : 2017~2023 <br>
 카카오클라우드스쿨 엔지니어: 2022.06 ~ 2022.12
 
 
