@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @ksh322
-- 👀 I’m interested in cloud Infra Engineer
-- 🌱 I’m currently learning Python, Algorithm, javascript and React js
-- 📫 How to reach me : stevekim97g@gmail.com
+- 👀 I’m cloud Infra Engineer in HANJIN (2023~)
+- 🌱 I’m currently learning Python, javascript and React js
+- 📫 How to reach me : stevekim97g@gmail.com (instagram: @sanghokun97)
 
-카카오클라우드스쿨 엔지니어: 2022.06 ~ 2022.12
-
+카카오클라우드스쿨 1기 2022.06 ~ 2022.12
+42seoul 라피신  9기 2023.02
+(주)한진 2023~
 
 <!---
 ksh322/ksh322 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
