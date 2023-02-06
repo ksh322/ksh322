@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Python, javascript and React js
 - 📫 How to reach me : stevekim97g@gmail.com (instagram: @sanghokun97)
 
-카카오클라우드스쿨 1기 2022.06 ~ 2022.12
-42seoul 라피신  9기 2023.02
+카카오클라우드스쿨 1기 2022.06 ~ 2022.12 <br>
+42seoul 라피신 2023 <br/>
 (주)한진 2023~
 
 <!---
