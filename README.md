@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @ksh322
-- 👀 I’m Cloud Infra Engineer in HANJIN (2023~)
-- 🌱 I’m currently learning AWS, Python, javascript and React js
-- 📫 How to reach me : ksh322@hanjin.com (instagram): @sanghokun97
+- 👀 I’m Cloud & Server Infra Engineer in HANJIN (2023~)
+- 🌱 I’m currently learning AWS, Control Tower, javascript and React js
+- 📫 How to reach me : ksh322@hanjin.com <br> instagram: @sanghokun97
 ## 교육 </br>
+- 동국대학교 컴퓨터공학부 정보통신공학과 <br>
 - 카카오클라우드스쿨 1기 2022 <br>
 - 42seoul 라피신 2023 <br/>
 
