@@ -5,11 +5,10 @@
 ## 교육 </br>
 - 동국대학교 컴퓨터공학부 정보통신공학과 <br>
 - 카카오클라우드스쿨 1기 2022 <br>
-- 42seoul 라피신 2023 <br/>
 
 
 ## 경력</br>
-(주)한진 2023~ 미래성장전략실 CCOE group<br> 
+(주)한진 2023~ 미래성장전략실 project team<br> 
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
