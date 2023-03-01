@@ -1,14 +1,14 @@
 - 👋 Hi, I’m @ksh322
 - 👀 I’m Cloud & Server Infra Engineer in HANJIN (2023~)
-- 🌱 I’m currently learning AWS, Control Tower, javascript and React js
+- 🌱 I’m currently learning AWS cloud, Control-Tower, Server engineering
 - 📫 How to reach me : ksh322@hanjin.com <br> instagram: @sanghokun97
 ## 교육 </br>
-- 동국대학교 컴퓨터공학부 정보통신공학과 <br>
-- 카카오클라우드스쿨 1기 2022 <br>
+- 동국대학교 컴퓨터공학부 정보통신공학과 졸업<br>
+- 카카오클라우드스쿨 1기 2022.06 ~ 2022.12 <br>
 
 
 ## 경력</br>
-(주)한진 2023~ 미래성장전략실 project team<br> 
+(주)한진 2023~ 미래성장전략실 cloud team<br> 
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
