@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ksh322
-- 👀 I’m Cloud & Server Infra Engineer 
-- 🌱 I’m currently learning AWS cloud, Control-Tower, Server engineering
-- 📫 How to reach me : ksh322@hanjin.com <br> instagram: @sanghokun97
+- 👀 I’m Seeking Cloud & Server Infra Engineer Position
+- 🌱 I’m currently learning AWS cloud (Control-Tower), Server engineering
+- 📫 How to reach me : ksh322@hanjin.com <br> 
 ## 교육 </br>
 - 동국대학교 컴퓨터공학부 정보통신공학과 졸업<br>
 - 카카오클라우드스쿨 1기 2022.06 ~ 2022.12 <br>
