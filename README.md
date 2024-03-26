@@ -8,6 +8,8 @@
 ## Career </br>
 - Hanjin Logistics DT Planning Team
 
+
+<a href="http://ksh322.github.io/portfolio/" target="_blank">
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
