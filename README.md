@@ -9,7 +9,7 @@
 - Hanjin Logistics DT Planning Team
 
 ## 취업정보 공유 <br>
-- <li>https://www.notion.so/ksh322/24-IT-by-KSH322-Jaehonglee-b5c01a04fa5f422dbf9b5b6f51c1f8fa?pvs=4</li>
+- <li>ttps://www.notion.so/ksh322/2024-IT-by-KSH322-b5c01a04fa5f422dbf9b5b6f51c1f8fa?pvs=4</li>
 <!---
 ksh322/ksh322 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
