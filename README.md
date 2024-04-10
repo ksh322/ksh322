@@ -5,7 +5,7 @@
 ## 교육 <br>
 - 동국대학교 컴퓨터공학부 정보통신공학과 졸업 2023<br>
 - RAPA 클라우드스쿨 1기 2022.06 ~ 2022.12 <br>
-## Career </br>
+## 커리어 </br>
 - Hanjin Logistics DT Planning Team
 
 ## 취업정보 공유 <br>
