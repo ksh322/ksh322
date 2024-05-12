@@ -1,7 +1,7 @@
 ## WHO AM I <br>
 👋 Hi, I’m @ksh322<br>
 👀 I’m Seeking Devops Engineer Position<br>
-✏️ Interested In : Front-end Web Developer (React.js, Next.js) , AWS cloud infra engineer, Server engineering<br>
+✏️ Interested In : Full stack Web Developer(React.js, Next.js) , AWS cloud infra engineer, Finally being Devops engineer<br>
 📫 How to reach me : ksh322@hanjin.com <br> or stevekim97g@gmail.com 
 ## 교육 <br>
 - 동국대학교 컴퓨터공학부 정보통신공학과 졸업 2023<br>
