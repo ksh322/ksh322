@@ -1,7 +1,7 @@
 ## WHO AM I <br>
 👋 안녕하세요 호기심 많은 개발자 김상호 입니다<br>
 👀 I’m Seeking Backend and Infra Engineer Position<br>
-✏️ Interested In : Full stack Web Developer(React.js, Spring Boot) , cloud-Native Devops engineer<br>
+✏️ Interested In : Full stack Web Developer spring boot, QA Engineer<br>
 📫 How to reach me : ksh322@hanjin.com <br> or stevekim97g@gmail.com 
 ## 교육 <br>
 - 동국대학교 컴퓨터공학부 정보통신공학과 졸업 2023<br>
