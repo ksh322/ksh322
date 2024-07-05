@@ -1,13 +1,13 @@
 ## WHO AM I <br>
 👋 안녕하세요 호기심 많은 개발자 김상호 입니다<br>
-👀 I’m Learning Fullstack Web programming, Seeking Backend Engineer Position<br>
+👀 I’m Learning Fullstack Web programming, Seeking BE FE Position<br>
 ✏️ Interested In : Full stack Web Developer, QA Engineer<br>
 📫 How to reach me : ksh322@hanjin.com <br> or stevekim97g@gmail.com 
 ## 교육 <br>
 - 동국대학교 컴퓨터공학부 정보통신공학과 졸업 2023<br>
-- KAKAO RAPA 클라우드스쿨 1기 2022.06 - 2022.12 <br>
+- KAKAO RAPA 클라우드스쿨  1기 2022.06 - 2022.12 <br>
 - Google 머신러닝 부트캠프 4기 2023.09 - 2023.11<br>
-- 바닐라 코딩 18기 2024.10 ~
+- 바닐라 코딩 18기 JS 2024.10.14 ~
 ## 커리어 </br>
 - Hanjin Logistics DT Planning Team (주)한진 IT기획팀 2023-2024
 
