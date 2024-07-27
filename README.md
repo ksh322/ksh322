@@ -1,7 +1,7 @@
 ## WHO AM I <br>
 👋 안녕하세요, 호기심 많은 개발자 김상호 입니다<br>
 
-웹 개발자로 일하고 있고, 기술적으로 난이도 높은 문제를 해결하기 위한 코드와 구조를 고민합니다. <br>
+웹 개발자 준비 중에 있고, 기술적으로 난이도 높은 문제를 해결하기 위한 코드와 구조를 고민합니다. <br>
 👀 I’m Learning Fullstack Web programming, Seeking BE FE Position<br>
 
 📫 How to reach me : ksh322@hanjin.com <br> or stevekim97g@gmail.com 
