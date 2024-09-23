@@ -4,10 +4,10 @@
 웹 개발자 준비 중에 있고, 기술적으로 난이도 높은 문제를 해결하기 위한 코드와 구조를 고민합니다. <br>
 👀 I’m Learning Fullstack Web programming, Seeking BE FE Position<br>
 
-📫 How to reach me : ksh322@hanjin.com <br> or stevekim97g@gmail.com 
+📫 How to reach me : stevekim97g@gmail.com <br>
 ## 교육 <br>
 - 🎓 동국대학교 컴퓨터공학부 정보통신공학과 졸업 2023<br>
-- KAKAO RAPA 클라우드스쿨  1기 2022.06 - 2022.12 <br>
+- KAKAO RAPA 클라우드스쿨  1기 2022.06 - 2022.12<br>
 - Google 머신러닝 부트캠프 4기 2023.09 - 2023.11<br>
   
 ## 커리어 </br>
