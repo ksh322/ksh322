@@ -6,7 +6,7 @@
 
 📫 How to reach me : stevekim97g@gmail.com <br>
 ## 교육 <br>
-- 🎓 동국대학교 컴퓨터공학부 정보통신공학과 졸업 2023<br>
+- 🎓 DGU 컴퓨터공학부 정보통신공학과 졸업 2023<br>
 - KAKAO RAPA 클라우드스쿨  1기 2022.06 - 2022.12<br>
 - Google 머신러닝 부트캠프 4기 2023.09 - 2023.11<br>
   
