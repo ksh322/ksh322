@@ -1,12 +1,12 @@
 ## WHO AM I
-👋 안녕하세요, 호기심 많은 개발자 김상호 입니다<br>
+👋 안녕하세요, 개발자 김상호 입니다<br>
 
-웹 개발자 준비 중에 있고, 기술적으로 난이도 높은 문제를 해결하기 위한 코드와 구조를 고민합니다. <br>
+웹 개발자 준비 중에 있고, 기술적으로 난이도 있는 문제를 해결하기 위한 코드와 구조를 고민합니다. <br>
 👀 I’m Learning Fullstack Web programming, Seeking BE FE Position<br>
 
 📫 How to reach me : stevekim97g@gmail.com <br>
-## 교육 
-- 🎓 DGU 컴퓨터공학부 정보통신공학과 졸업 2023<br>
+## Experience
+- 🎓 DGU 컴퓨터공학부 졸업 2023<br>
 - RAPA KAKAO 클라우드스쿨  1기 2022.06 - 2022.12<br>
 - 머신러닝 부트캠프 4기 2023.09 - 2023.11<br>
   
