@@ -4,7 +4,7 @@
 📫 How to reach me : stevekim97@naver.com <br>
 ## Experience
 - 🎓 DGU 컴퓨터공학부 졸업 2023<br>
-- RAPA 클라우드스쿨  1기 2022.06 - 2022.12<br>
+- RAPA 클라우드스쿨  1기 2022.12 수료 <br>
 - Google MLB 4기 2023.09 - 2023.11<br>
   
 ## career </br>
