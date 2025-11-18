@@ -9,7 +9,7 @@
 - 2017.06~09 USA NewYork, Las Vegas
   
 ## career </br>
-- Hanjin Logistics DT전략실 Digital Transforma. Planning Team staff 2023.02 입사 -2024.09
+- Hanjin Logistics DT전략실 DT Planning Team staff 2023.02 입사 -2024.09
 
 <!---
 ksh322/ksh322 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
