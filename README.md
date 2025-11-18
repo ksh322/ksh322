@@ -5,7 +5,7 @@
 ## Experience
 - 🎓 DongGuk Univ. seoul 컴퓨터공학부 2023 졸업 <br>
 - RAPA 클라우드스쿨  1기 2022.12 수료 <br>
-- Google Machine Learning 부캠 4기 2023.11 수료<br>
+- Google Machine Learning 4기 2023.11 수료<br>
 - 2017.06~09 USA NewYork, Las Vegas
   
 ## career </br>
