@@ -1,14 +1,14 @@
 ## WHO AM I
 
+📫 How to reach me : stevekim97g@gmail.com <br>
 
-📫 How to reach me : stevekim97@naver.com <br>
 ## Experience
 - 🎓 DongGuk Univ. seoul 컴퓨터공학부 2023.02 졸업 <br>
 - RAPA 클라우드스쿨  1기 2022.12 수료 <br>
 - Google Machine Learning 4기 2023.11 수료<br>
 - 2017.06~09 USA NewYork, SF, Las Vegas
   
-## career </br>
+## Career </br>
 - Hanjin Logistics DT전략실 DT Planning Team staff 2023.02 입사 -2024.09
 
 <!---
