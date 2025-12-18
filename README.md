@@ -4,7 +4,7 @@ from 1997 seoul
 
 ## Experience
 - 🎓 B.S. DongGuk Univ. seoul 컴퓨터공학부 2023.02 <br>
-- RAPA kakao클라우드스쿨 Engineer (Django,Docker,K8S,AWS) 2022.12 <br>
+- RAPA kakao클라우드스쿨 Engineer (Django,Docker,K8S,AWS) 2022 <br>
 - Google Machine Learning 2023 <br>
 
 ## Extracurricular
