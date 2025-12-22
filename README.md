@@ -4,11 +4,11 @@ from 1997 seoul
 
 ## Experience
 - 🎓 B.S. DongGuk Univ. seoul 컴퓨터공학부 2023.02 <br>
-- RAPA kakao클라우드스쿨 Engineer (Django,Docker,K8S,AWS) 2022 <br>
+- RAPA kakaoCloudschool Engineer (Django,Docker,K8S,AWS) 22.06- 22.12 <br>
 - Google Machine Learning 2023 <br>
 
 ## Extracurricular
-- 2017.06~09 USA NewYork, SF, Las Vegas
+- 2017.06-08 USA NewYork, SF, Las Vegas
 - 2019~2021 Conscripted Fire Brigade
 - 2019~2025 @wantospeak english subleader
 - K.airt Regular member
