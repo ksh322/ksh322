@@ -1,11 +1,11 @@
 ## WHO AM I
-from 1997 seoul
-📫 How to reach me : stevekim97g@gmail.com <br>
+- from 1997 seoul <br>
+- 📫 How to reach me : stevekim97g@gmail.com <br>
 
 ## Experience
 - 🎓 B.S. DongGuk Univ. seoul 컴퓨터공학부 2023.02 <br>
 - RAPA kakaoCloudschool Engineer (Django,Docker,K8S,AWS) 22.06- 22.12 <br>
-- Google Machine Learning 2023 <br>
+- 🇬Google Machine Learning 2023 <br>
 
 ## Extracurricular
 - 2017.06-08 USA NewYork, SF, Las Vegas
