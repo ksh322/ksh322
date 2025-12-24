@@ -5,13 +5,13 @@
 ## Experience
 - 🎓 B.S. DongGuk Univ. seoul 컴퓨터공학부 2023.02 <br>
 - RAPA kakaoCloudschool Engineer (Django,Docker,K8S,AWS) 22.06- 22.12 <br>
-- 🇬Google Machine Learning 2023 <br>
+- 🇬oogle Machine Learning 2023 <br>
 
 ## Extracurricular
 - 2017.06-08 USA NewYork, SF, Las Vegas
 - 2019~2021 Conscripted Fire Brigade
 - 2019~2025 @wantospeak english subleader
-- K.airt Regular member
+- 2025~ K.airt Regular member
   
 ## Career </br>
 - Hanjin Logistics DT Strategy DT Planning Team staff 2023.02 -2024.09
