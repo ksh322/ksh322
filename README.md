@@ -9,10 +9,10 @@
 
 ## Extracurricular
 - 2017.06-08 USA NewYork, SF, Las Vegas
-- 2019~2021 Conscripted Fire Brigade
-- 2019~2025 @wantospeak english subleader
-- 2024~2025 서울대교구 흑석동성당 청년회 성가대 베이스 단원 choir base
-- 2025~ @K.airt Regular member
+- 2019-2021 Conscripted Fire Brigade
+- 2019-2025 @wantospeak english subleader
+- 2024-2025 서울대교구 흑석동성당 청년회 성가대 베이스 단원 choir base
+- 2025- @K.airt Regular member 한국 AI작가협회 정회원
   
 ## Career </br>
 - Hanjin Logistics DT Strategy DT Planning Team staff 2023.02 -2024.09
