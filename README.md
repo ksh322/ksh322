@@ -10,8 +10,8 @@
 ## Extracurricular
 - 2017.06-08 USA NewYork, SF, Las Vegas
 - 2019~2021 Conscripted Fire Brigade
-- 2024~2025 서울대교구 흑석동성당 청년회 성가대 베이스 단원 choir base
 - 2019~2025 @wantospeak english subleader
+- 2024~2025 서울대교구 흑석동성당 청년회 성가대 베이스 단원 choir base
 - 2025~ @K.airt Regular member
   
 ## Career </br>
