@@ -21,9 +21,9 @@
 ## Language
 -Languages
 
-English: Fluent (Communication & Documentation) <br>
+  - English: Fluent (Communication & Documentation) <br>
 
-Japanese: Basic (JLPT N4 level or Daily conversation)<br>
+  - Japanese: Basic (JLPT N4 level or Daily conversation)<br>
 
 ## Extracurricular
 - 2019-2021 Conscripted Fire Brigade
