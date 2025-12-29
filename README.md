@@ -1,8 +1,12 @@
 ## WHO AM I
 - from 1997 seoul <br>
-- Resume
-  - https://ksh322.github.io/Resume/Kimsangho.pdf  
+- [Resume] https://ksh322.github.io/Resume/Kimsangho.pdf  
 - 📫 How to reach me : stevekim97g@gmail.com <br>
+- 💻 Tech Stack  
+  - Languages: Python, Java, Kotlin  
+  - Backend: Django, Spring Boot  
+  - Infra: Docker, K8s, ArgoCD  
+  - Cloud: AWS
 
 ## Experience
 - 🎓 B.S. Dongguk University Seoul, Computer Engineering (2017.3 - 2023.2) <br>
