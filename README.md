@@ -28,7 +28,7 @@
 - 2019-2025 wantospeak English 2022-2025 Japanese
 - 2024-2025 서울대교구 Domine Choir base member
 - 2025- Now @K.airt Regular 
-Member of Korea AI Writers Association (Exploring LLM Prompt Engineering)
+Member of Korea AI Writers Association
   
 
 <!---
