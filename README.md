@@ -5,19 +5,28 @@
 - 📫 How to reach me : stevekim97g@gmail.com <br>
 
 ## Experience
-- 🎓 B.S. DongGuk Univ. seoul Computer Engineering Graduation 2023.02 <br>
+- 🎓 B.S. Dongguk University Seoul, Computer Engineering (2017.3 - 2023.2) <br>
 -  KakaoCloudschool Engineer (Django,Docker,K8S,AWS) 22.06- 22.12 <br>
 - 🇬oogle Machine Learning 2023 <br>
 
 ## Career </br>
-- Hanjin Logistics DT Strategy DT Planning Team staff 2023.02 -2024.09
+- Hanjin Logistics DT Strategy DT Planning (DT전략실) Assistant 2023.02 -2024.09
+  - Logistics Domain Business Logic
+  - Smart Office service Rollout support (JavaSpring Boot web-based seat/room reservation system)
+
+## Language
+-Languages
+
+English: Fluent (Communication & Documentation) <br>
+
+Japanese: Basic (JLPT N4 level or Daily conversation)<br>
 
 ## Extracurricular
-- 2017.06-08 USA NY, SF, Las Vegas
 - 2019-2021 Conscripted Fire Brigade
 - 2019-2025 wantospeak English 21-25 Japanese
-- 2024-2025 서울대교구 Domine 청년회 성가대 베이스 단원 base
-- 2025- @K.airt Regular member 한국 AI작가협회 정회원
+- 2024-2025 서울대교구 Domine 성가대 base member
+- 2025- @K.airt Regular 
+Member of Korea AI Writers Association (Exploring LLM Prompt Engineering & Creative Applications)
   
 
 <!---
