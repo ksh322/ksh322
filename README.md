@@ -10,8 +10,8 @@
 
 ## Experience
 - 🎓 B.S. Dongguk University Seoul, Computer Engineering (2017.3 - 2023.2) <br>
--  KakaoCloudschool Engineer (Django,Docker,K8S,AWS) 22.06- 22.12 <br>
-- 🇬oogle Machine Learning 2023 <br>
+-  KakaoCloudschool Engineer (Django,Docker,K8S,AWS ) 22.06- 22.12 <br>
+- 🇬oogle Machine Learning Bootcamp 2023 + Kaggle Competition<br>
 
 ## Career </br>
 - Hanjin Logistics DT Strategy DT Planning (DT전략실) Assistant 2023.02 -2024.09
@@ -19,11 +19,10 @@
   - Smart Office service Rollout support (JavaSpring Boot web-based seat/room reservation system)
 
 ## Language
--Languages
 
   - English: Fluent <br>
 
-  - Japanese: Basic (JLPT N4 level or Daily conversation)<br>
+  - Japanese: Basic (JLPT N4 level & Daily conversation)<br>
 
 ## Extracurricular
 - 2019-2021 Conscripted Fire Brigade
