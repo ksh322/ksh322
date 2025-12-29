@@ -14,7 +14,7 @@
 - 🇬oogle Machine Learning Bootcamp 2023 + Kaggle Competition<br>
 
 ## Career </br>
-- Hanjin Logistics DT Strategy DT Planning (DT전략실) Assistant 2023.02 -2024.09
+- Hanjin Logistics DT Strategy DT Planning Assistant 2023.02 - 2024.09
   - Logistics Domain Business Logic
   - Smart Office service Rollout support (JavaSpring Boot web-based seat/room reservation system)
 
@@ -26,10 +26,10 @@
 
 ## Extracurricular
 - 2019-2021 Conscripted Fire Brigade
-- 2019-2025 wantospeak English 21-25 Japanese
-- 2024-2025 서울대교구 Domine 성가대 base member
-- 2025- @K.airt Regular 
-Member of Korea AI Writers Association (Exploring LLM Prompt Engineering & Creative Applications)
+- 2019-2025 wantospeak English 2022-2025 Japanese
+- 2024-2025 서울대교구 Domine Choir base member
+- 2025- Now @K.airt Regular 
+Member of Korea AI Writers Association (Exploring LLM Prompt Engineering)
   
 
 <!---
