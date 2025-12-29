@@ -15,7 +15,7 @@
 ## Extracurricular
 - 2017.06-08 USA NY, SF, Las Vegas
 - 2019-2021 Conscripted Fire Brigade
-- 2019-2025 wantospeak English
+- 2019-2025 wantospeak English 21-25 Japanese
 - 2024-2025 서울대교구 Domine 청년회 성가대 베이스 단원 base
 - 2025- @K.airt Regular member 한국 AI작가협회 정회원
   
