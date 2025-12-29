@@ -21,7 +21,7 @@
 ## Language
 -Languages
 
-  - English: Fluent (Communication & Documentation) <br>
+  - English: Fluent <br>
 
   - Japanese: Basic (JLPT N4 level or Daily conversation)<br>
 
