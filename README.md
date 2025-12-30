@@ -16,7 +16,7 @@
 ## Career </br>
 - Hanjin Logistics DT Strategy DT Planning Assistant 2023.02 - 2024.09
   - Infra NW Engineer
-  - Smart Office service Rollout QA support (Spring Boot web-based seat/room reservation system)
+  - Smart Office service Rollout QA support <br> (Spring Boot web-based seat/room reservation system)
 
 ## Language
 
@@ -25,7 +25,6 @@
 
 ## Extracurricular
 - 2019-2021 Conscripted Fire Brigade
-- 2019-2025 wantospeak English 2022-2025 Japanese
 - 2024-2025 서울대교구 Domine Choir base member
 - 2025- Now @K.airt Regular 
 Member of Korea AI Writers Association
