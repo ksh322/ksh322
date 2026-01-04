@@ -16,7 +16,7 @@
 ## Career </br>
 - Hanjin Logistics DT Strategy DT Planning Assistant 2023.02 - 2024.09
   - Infra NW Engineer
-  - Smart Office service Rollout QA support <br> (Spring Boot web-based seat/room reservation system)
+  - Smart Office service Rollout QA support 
 
 ## Language
 
