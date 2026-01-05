@@ -1,6 +1,6 @@
 ## WHO AM I
 - from 1997 seoul <br>
-- [Resume] https://ksh322.github.io/Resume/Kimsangho.pdf  
+- 💻 [Resume] https://ksh322.github.io/Resume/Kimsangho.pdf  
 - 📫 How to reach me : stevekim97g@gmail.com <br>
 - 💻 Tech Stack  
   - Languages: Python, Java, Kotlin  
@@ -20,8 +20,8 @@
 
 ## Language
 
-  - English: Fluent (IH)  <br>
-  - Japanese: Basic (JLPT N4 level & Daily conversation)<br>
+  - English: Fluent (IH)
+  - Japanese: Basic (JLPT N4, JPT 330 & Daily conversation)<br>
 
 ## Extracurricular
 - 2019-2021 Conscripted Fire Brigade
