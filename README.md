@@ -25,9 +25,9 @@
 
 ## Extracurricular
 - 2019-2021 Conscripted Fire Brigade
-- 2024-2025 서울대교구 Domine Choir base member
-- 2025- Now @K.airt Regular 
-Member of Korea AI Writers Association
+- 2024-2025 Domine Choir base member
+- 2025- Now KAAA ( @K.airt Regular 
+Member of Korea AI Writers Association )
   
 
 <!---
