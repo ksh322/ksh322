@@ -9,12 +9,12 @@
   - Cloud: AWS
 
 ## Experience
-- 🎓 B.S. Dongguk University Seoul, Computer Engineering (2017.3 - 2023.2) <br>
--  KakaoCloudschool Engineer (Django,Docker,K8S,AWS 22.06- 22.12) <br>
-- 🇬oogle Machine Learning Bootcamp 2023 (& Kaggle Playground Competition) <br>
+- 2017.03 -2023.02 🎓 B.S. Dongguk University Seoul, Computer Engineering <br>
+- 2022.06- 2022.12KakaoCloudschool Engineer (Django,Docker,K8S,AWS) <br>
+- 2023 🇬oogle Machine Learning Bootcamp (Kaggle Playground Competition) <br>
 
 ## Career </br>
-- Hanjin Logistics DT Strategy DT Planning Assistant 2023.02 - 2024.09
+- 2023.02 - 2024.09 Hanjin Logistics DT Strategy DT Planning Assistant 
   - Infra NW Engineer
   - Smart Office service Rollout QA support 
 
