@@ -2,7 +2,7 @@
 - from 1997 seoul <br>
 - 💻 [Resume] https://ksh322.github.io/Resume/Kimsangho.pdf  
 - 📫 How to reach me : stevekim97g@gmail.com <br>
-- 💻 Tech Stack  
+- 🌱 Tech Stack  
   - Languages: Python, Java, Kotlin  
   - Backend: Django, Spring Boot  
   - Infra: Docker, K8s, ArgoCD  
