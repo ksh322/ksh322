@@ -10,7 +10,7 @@
 
 ## Experience
 - 2017.03 -23.02 🎓 B.S. Dongguk University Seoul, Computer Engineering <br>
-- 2022.06- 22.12 KakaoCloudschool Engineer (Django,Docker,K8S,AWS) <br>
+- 2022.06- 22.12 KakaoCloudschool Engineer (Django,Docker,K8S,AWS,GCP) <br>
 - 2023 🇬oogle Machine Learning Bootcamp (Kaggle Playground Competition) <br>
 
 ## Career </br>
