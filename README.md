@@ -9,8 +9,8 @@
   - Cloud: AWS
 
 ## Experience
-- 2017.03 -2023.02 🎓 B.S. Dongguk University Seoul, Computer Engineering <br>
-- 2022.06- 2022.12KakaoCloudschool Engineer (Django,Docker,K8S,AWS) <br>
+- 2017.03 -23.02 🎓 B.S. Dongguk University Seoul, Computer Engineering <br>
+- 2022.06- 22.12 KakaoCloudschool Engineer (Django,Docker,K8S,AWS) <br>
 - 2023 🇬oogle Machine Learning Bootcamp (Kaggle Playground Competition) <br>
 
 ## Career </br>
@@ -20,14 +20,14 @@
   - Smart Office service Rollout QA support 
 
 ## Language
-
+  - Korean Native
   - English: Fluent (IH)
-  - Japanese: Basic (JLPT N4, WorkingHoliday 2026 & Daily conversation)<br>
+  - Japanese: Basic (JLPT N4, WorkingHoliday 25)<br>
 
 ## Extracurricular
 - 2019-2021 Conscripted Fire Brigade
 - 2024-2025 Domine Choir base member
-- 2025- Now KAAA ( @K.airt Regular 
+- 2025- Now KAAA ( @K.airt Regular 정회원 )<br>
 Member of Korea AI Writers Association )
   
 
