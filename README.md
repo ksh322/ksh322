@@ -14,13 +14,13 @@
 - 2023 🇬oogle Machine Learning Bootcamp (Kaggle Playground Competition) <br>
 
 ## Career </br>
-- 2026.02 - Now. Intel Korea Lab Technician
+- 2026.02 - Now. Intel Korea Lab Technician ,Seoul 
 - 2023.02 - 2024.09 Hanjin Logistics DT Strategy DT Planning Assistant 
-  - Infra NW Engineer
+  - NW Infra Engineer
   - Smart Office service Rollout QA support 
 
 ## Language
-  - Korean Native
+  - Korean: Native
   - English: Fluent (IH)
   - Japanese: Basic (JLPT N4, WorkingHoliday 25)<br>
 
