@@ -3,7 +3,7 @@
 - 💻 [Resume] https://ksh322.github.io/Resume/Kimsangho.pdf  
 - 📫 How to reach me : stevekim97g@gmail.com <br>
 - 🌱 Tech Stack  
-  - Languages: Python, Java, Kotlin  
+  - Languages: Python, Java, Kotlin, Typescript
   - Backend: Django, Spring Boot  
   - Infra: Docker, K8s, ArgoCD  
   - Cloud: AWS
@@ -14,7 +14,7 @@
 - 2023 🇬oogle Machine Learning Bootcamp (Kaggle Playground Competition) <br>
 
 ## Career </br>
-- 2026.02 - Now. Intel Korea Lab Technician ,Seoul 
+- 2026.02 - Now. Intel Korea Lab Technician , Seoul 
 - 2023.02 - 2024.09 Hanjin Logistics DT Strategy DT Planning Assistant 
   - NW Infra Engineer
   - Smart Office service Rollout QA support 
