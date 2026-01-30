@@ -3,14 +3,14 @@
 - 💻 [Resume] https://ksh322.github.io/Resume/Kimsangho.pdf  
 - 📫 How to reach me : stevekim97g@gmail.com <br>
 - 🌱 Tech Stack  
-  - Languages: Python, Java, Kotlin, Typescript
-  - Backend: Django, Spring Boot  
+  - Languages: Python, Java, Kotlin, Typescript (Newbie)
+  - Backend: Django for 6month, Spring Boot (Newbie)  
   - Infra: Docker, K8s, ArgoCD  
   - Cloud: AWS
 
 ## Experience
 - 2017.03 -23.02 🎓 B.S. Dongguk University Seoul, Computer Engineering <br>
-- 2022.06- 22.12 KakaoCloudschool Engineer (Django,Docker,K8S,AWS,GCP) <br>
+- 2022.06- 22.12 KakaoCloudschool Engineer (Django,Docker,K8S,AWS,GCP study Jam) <br>
 - 2023 🇬oogle Machine Learning Bootcamp (Kaggle Playground Competition) <br>
 
 ## Career </br>
@@ -22,7 +22,7 @@
 ## Language
   - Korean: Native
   - English: Fluent (IH)
-  - Japanese: Basic (JLPT N4, WorkingHoliday 25)<br>
+  - Japanese: Basic (JLPT N4, WorkingHoliday 1 year)<br>
 
 ## Extracurricular
 - 2019-2021 Conscripted Fire Brigade
