@@ -1,5 +1,5 @@
 ## WHO AM I
-- from 1997 seoul <br>
+- from 1997.03.22 seoul <br>
 - 💻 [Resume] https://ksh322.github.io/Resume/Kimsangho.pdf  
 - 📫 How to reach me : stevekim97g@gmail.com <br>
 - 🌱 Tech Stack  
