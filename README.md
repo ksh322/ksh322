@@ -1,8 +1,8 @@
 ## WHO AM I
 - from 1997.03.22 seoul <br>
-- 💻 [Resume] https://ksh322.github.io/Resume/Kimsangho.pdf  
+  
 - 📫 How to reach me : stevekim97g@gmail.com <br>
-- 🌱 Tech Stack  
+- 💻 🌱 Tech Stack  
   - Languages: Python, Java, Kotlin, Typescript (Newbie)
   - Backend: Django for 6month, Spring Boot (Newbie)  
   - Infra: Docker, K8s, ArgoCD  
@@ -26,9 +26,9 @@
 
 ## Extracurricular
 - 2019-2021 Conscripted Fire Brigade
-- 2024-2025 Domine Choir base member
 - 2025- Now KAAA ( @K.airt Regular 정회원 )<br>
 Member of Korea AI Writers Association )
+- 2026 ~ 가짜연구소
   
 
 <!---
