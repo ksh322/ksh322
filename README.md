@@ -1,6 +1,6 @@
 ## WHO AM I
 - from 1997.03.22 seoul <br>
-- decoindco@kita.net
+- 회사이메일: decoindco@kita.net
   
 - 📫 How to reach me : stevekim97g@gmail.com <br>
 - 💻 Tech Stack 🌱
