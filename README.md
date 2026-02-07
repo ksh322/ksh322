@@ -4,7 +4,7 @@
   
 - 📫 How to reach me : stevekim97g@gmail.com <br>
 - 💻 Tech Stack 🌱
-  - Languages: Python, Java, Kotlin, Typescript (Newbie)
+  - Languages: Python, Java, Typescript (Newbie)
   - Backend: Django (3month), Spring Boot (Newbie)  
   - Infra: Docker, K8s, ArgoCD  
   - Cloud: AWS
