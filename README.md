@@ -22,14 +22,14 @@
   - Smart Office service Rollout QA support
 ## Language
   - Korean: Native
-  - English: Fluent (IH)
+  - English: Fluent (IH), @wantospeak subleader
   - Japanese: Basic (JLPT N4, Working Holiday 1y)<br>
 
 ## Extracurricular
 - 2019.08-2021 Conscripted Fire Brigade
 - 2025- Now KAAA ( @K.airt Regular 정회원 )<br>
 Member of Korea AI Writers Association )
-- 2026.02 ~ 가짜연구소 builder
+- 2026.02 ~ 가짜연구소 PseudoLab Builder
   
 <!---
 ksh322/ksh322 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
