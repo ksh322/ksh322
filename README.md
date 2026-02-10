@@ -16,7 +16,7 @@
 
 ## Career </br>
 - Engineer
-- Now. Intel Korea Lab Technician , Seoul 
+- Now. Deco Corporation Assistant, Intel Korea Lab Technician , Seoul 
 - 2023.02 - 2024.09 Hanjin Logistics DT Strategy DT Planning Team Assistant 
   - NW Infra Engineer
   - Smart Office service Rollout QA support
