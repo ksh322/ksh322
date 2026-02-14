@@ -16,7 +16,7 @@
 
 ## Career </br>
 - Engineer
-- Now. Deco Indco Ltd Assistant, Intel Korea Lab Technician , Seoul 
+- Now. Deco Indco Ltd Assistant, Seoul 
 - 2023.02 - 2024.09 Hanjin Logistics DT(DX) Planning Team Assistant 
   - NW Infra Engineer - Smart Office service Rollout QA support
 ## Language
@@ -26,9 +26,9 @@
 
 ## Extracurricular
 - 2019.08-2021 Conscripted Fire Brigade
-- 2025- Now KAAA ( @K.airt Regular 정회원 )<br>
+- 2025- Now KAAA ( @Kaiart 정회원 )<br>
 Member of Korea AI Writers Association )
-- 2026.02 ~ 가짜연구소 PseudoLab Builder
+- 2026.02 ~ Now 가짜연구소 PseudoLab Builder
   
 <!---
 ksh322/ksh322 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
