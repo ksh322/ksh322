@@ -4,25 +4,24 @@
   
 - 📫 How to reach me : stevekim97g@gmail.com <br>
 - 💻 Tech Stack 🌱
-  - Languages: Python, Java, Typescript (Newbie)
-  - Backend: Django (3month), Spring Boot (Newbie)  
+  - Languages: Java, Python, Typescript (Newbie)
+  - Backend: Django, Spring Boot (Newbie)  
   - Infra: Docker, K8s, ArgoCD  
   - Cloud: AWS
 
 ## Experience
 - 2017.03 -23.02 🎓 B.S. Dongguk University Seoul, Computer Engineering <br>
-- 2022.06- 22.12 KakaoCloudschool Engineer (Django,Docker,K8S,AWS,GCP study Jam) <br>
-- 2023 🇬oogle Machine Learning Bootcamp (Kaggle Playground Competition) <br>
+- 2022.06- 22.12 KakaoCloudschool Engineer (Django,Docker,K8S,AWS,GCP) <br>
+- 2023 🇬oogle Machine Learning Bootcamp (Coursera Deep Learning.AI , Kaggle Playground Competition) <br>
 
 ## Career </br>
 - Engineer
-- Now. Deco Corporation Assistant, Intel Korea Lab Technician , Seoul 
-- 2023.02 - 2024.09 Hanjin Logistics DT Strategy DT Planning Team Assistant 
-  - NW Infra Engineer
-  - Smart Office service Rollout QA support
+- Now. Deco Indco Ltd Assistant, Intel Korea Lab Technician , Seoul 
+- 2023.02 - 2024.09 Hanjin Logistics DT(DX) Planning Team Assistant 
+  - NW Infra Engineer - Smart Office service Rollout QA support
 ## Language
   - Korean: Native
-  - English: Fluent (IH), @wantospeak subleader
+  - English: Fluent (opic IH)
   - Japanese: Basic (JLPT N4, Working Holiday 1y)<br>
 
 ## Extracurricular
