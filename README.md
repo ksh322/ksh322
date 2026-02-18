@@ -25,10 +25,10 @@
   - Japanese: Basic (JLPT N4, Working Holiday 1y)<br>
 
 ## Extracurricular
-- 2019.08-2021 Conscripted Fire Brigade
+- 2019.08-2021 Conscripted Fire Brigade siheung
 - 2025- Now KAAA ( @Kaiart 정회원 )<br>
 Member of Korea AI Writers Association )
-- 2026.02 ~ Now 가짜연구소 PseudoLab Builder
+- 2026.02 ~ Now 가짜연구소 PseudoLab
   
 <!---
 ksh322/ksh322 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
