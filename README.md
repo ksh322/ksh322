@@ -3,20 +3,20 @@
 - 회사이메일: decoindco@kita.net
   
 - 📫 How to reach me : stevekim97g@gmail.com <br>
-- 💻 Tech Stack 🌱
-  - Languages: Java, Python, Typescript (Newbie)
-  - Backend: Django, Spring Boot (Newbie)  
-  - Infra: Docker, K8s, ArgoCD  
-  - Cloud: AWS
+- 💻 Tech Stack  🌱
+  - Languages: Java, Python, Typescript
+  - Backend Frameworks: Django, Spring Boot (Newbie) 
+  - Infra: Docker, K8S, ArgoCD  
+  - Cloud: AWS 
 
 ## Experience
 - 2017.03 -23.02 🎓 B.S. Dongguk University Seoul, Computer Engineering <br>
 - 2022.06- 22.12 KakaoCloudschool Engineer (Django,Docker,K8S,AWS,GCP) <br>
-- 2023 🇬oogle Machine Learning Bootcamp (Coursera Deep Learning.AI , Kaggle Playground Competition) <br>
+- 2023 🇬oogle Machine Learning Bootcamp (Coursera Deep Learning.AI Based) <br>
 
 ## Career </br>
 - Engineer
-- Now. Deco Indco Ltd Assistant, Seoul 
+- Now. Deco Indco Ltd Assistant, Seoul & Tokyo
 - 2023.02 - 2024.09 Hanjin Logistics DT(DX) Planning Team Assistant 
   - NW Infra Engineer - Smart Office service Rollout QA support
 ## Language
@@ -25,8 +25,8 @@
   - Japanese: Basic (JLPT N4, Working Holiday 1y)<br>
 
 ## Extracurricular
-- 2019.08-2021 Conscripted Fire Brigade siheung
-- 2025- Now KAAA ( @Kaiart 정회원 )<br>
+- 2019.08-2021.04 Conscripted Fire Brigade siheung
+- 2025- Now @Kaiart 정회원 <br>
 Member of Korea AI Writers Association )
 - 2026.02 ~ Now 가짜연구소 PseudoLab
   
