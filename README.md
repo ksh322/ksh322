@@ -5,14 +5,14 @@
 - 📫 How to reach me : stevekim97g@gmail.com <br>
 - 💻 Tech Stack  🌱
   - Languages: Java, Python, Typescript
-  - Backend Frameworks: Django, Spring Boot (Newbie) 
+  - Backend Frameworks: Django, Spring Boot 3
   - Infra: Docker, K8S, ArgoCD  
   - Cloud: AWS 
 
 ## Experience
 - 2017.03 -23.02 🎓 B.S. Dongguk University Seoul, Computer Engineering <br>
 - 2022.06- 22.12 KakaoCloudschool Engineer (Django,Docker,K8S,AWS,GCP) <br>
-- 2023 🇬oogle Machine Learning Bootcamp (Coursera Deep Learning.AI Based) <br>
+- 2023 🇬oogle Machine Learning Bootcamp (Coursera Deep Learning.AI online course) <br>
 
 ## Career </br>
 - Engineer
