@@ -7,7 +7,6 @@ Hi I am Engineer Kimsangho <br>
 - 💻 Tech Stack  🌱
   - Languages: Java, Python
   - Backend Frameworks: Django, Spring Boot3
-  - Frontend React.js
   - Infra: Docker, K8S, ArgoCD  
   - Cloud: AWS 
 
@@ -22,12 +21,12 @@ Hi I am Engineer Kimsangho <br>
 - 2023.02 - 2024.09 Hanjin Logistics DT(DX) Planning Team Assistant 
   - NW Infra Engineer - Smart Office service Rollout QA support
 ## Language
-  - Korean: Native
+
   - English: Fluent (OPIC AL)
   - Japanese: Basic (JLPT N4, Working Holiday 1y)
 
 ## Extracurricular
-- 2019.08-2021.04 Conscripted Fire Brigade siheung
+- 2019.08-2021.04 Conscripted Fire Brigade
 - 2025- Now @Kaiart 정회원 <br>
 Member of Korea AI Writers Association )
 - 2026.02 ~ Now 가짜연구소 PseudoLab
