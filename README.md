@@ -3,7 +3,7 @@ Hi I am Engineer Kimsangho <br>
 - from 1997.03.22 seoul <br>
 - Company Mail: decoindco@kita.net
   
-- 📫 How to reach me : stevekim97g@gmail.com <br>
+- 📫 How to reach me personally : stevekim97g@gmail.com <br>
 - 💻 Tech Stack  🌱
   - Languages: Java, Python
   - Backend Frameworks: Django, Spring Boot3
@@ -18,15 +18,14 @@ Hi I am Engineer Kimsangho <br>
 ## Career </br>
 - Now. Deco Indco Ltd Engineer, PM, Seoul
 - 2023.02 - 2024.09 Hanjin Logistics DT(DX) Planning Team Assistant 
-  - NW Infra Engineer 
+  - NW Infra Engineer
   - Smart Office service Rollout QA support
   
-## Language
+## Language & Extracurricular
 
   - English: Fluent
-  - Japanese: Basic (JLPT N4, Working Holiday 1y)
+  - Japanese: Basic (JLPT N4)
 
-## Extracurricular
 - 2019.08-2021.04 Conscripted Fire Brigade
 - 2025- Now @Kaiart 정회원 <br>
 Member of Korea AI Writers Association )
