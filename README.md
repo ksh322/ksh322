@@ -11,18 +11,19 @@ Hi I am Engineer Kimsangho <br>
   - Cloud: AWS 
 
 ## Experience
-- 2017.03 -23.02 🎓 B.S. Dongguk University Seoul, Computer Engineering <br>
-- 2022.06- 22.12 KakaoCloudschool Engineer 카카오현직자 멘토링 (Django,Docker,K8S,AWS,GCP) <br>
-- 2023.11 🇬oogle Machine Learning Bootcamp (Coursera Deep Learning.AI online course) <br>
+- 17.03 -23.02 🎓 B.S. Dongguk University Seoul, Computer Engineering <br>
+- 22.06- 22.12 KakaoCloudschool Engineer 카카오현직자 멘토링 (Django,Docker,AWS) <br>
+- 23.11 🇬oogle MLB (Coursera Deep Learning.AI course) <br>
 
 ## Career </br>
-- Engineer
-- Now. Deco Indco Ltd Assistant, Seoul & Tokyo
+- Now. Deco Indco Ltd Engineer, PM, Seoul
 - 2023.02 - 2024.09 Hanjin Logistics DT(DX) Planning Team Assistant 
-  - NW Infra Engineer - Smart Office service Rollout QA support
+  - NW Infra Engineer 
+  - Smart Office service Rollout QA support
+  
 ## Language
 
-  - English: Fluent (OPIC AL)
+  - English: Fluent
   - Japanese: Basic (JLPT N4, Working Holiday 1y)
 
 ## Extracurricular
