@@ -14,12 +14,12 @@ Hi I am Engineer Kimsangho <br>
 
 ## Experience
 - 17.03 -23.02 🎓 B.S. Dongguk University Seoul, Computer Engineering <br>
-- 22.06- 22.12 KakaoCloudschool Engineer 카카오현직자 멘토링 (Django,Docker,AWS) <br>
+- 22.06- 22.12 KakaoCloudschool Engineer 카카오현직자 멘토링<br>
 - 23.11 🇬oogle MLB (Coursera Deep Learning.AI course) <br>
 
 ## Career </br>
-- Now. Deco Indco Ltd Engineer, PM, Seoul
-- 2023.02 - 2024.09 Hanjin Logistics DT(DX) Planning Team Assistant 
+- Now. Deco Indco Ltd Project Manager, Seoul
+- 2023.02 - 2024.09 Hanjin Logistics DT전략실 Assistant 
   - NW Infra Engineer
   - Smart Office service Rollout QA support
   
