@@ -1,7 +1,6 @@
 ## WHO AM I
 Hi I am Engineer Kimsangho <br>
 - from 1997.03.22 seoul <br>
-- Company Mail: decoindco@kita.net
   
 - 📫 personal Mail : stevekim97g@gmail.com <br>
 - 💻 Tech Stack  🌱
@@ -14,21 +13,21 @@ Hi I am Engineer Kimsangho <br>
 
 ## Experience
 - 17.03 -23.02 🎓 B.S. Dongguk University Seoul, Computer Engineering <br>
-- 22.06- 22.12 KakaoCloudschool Engineer 카카오현직자 멘토링<br>
+- 22.06- 22.12 KakaoCloudschool Engineer <br>
 - 23.11 🇬oogle MLB (Coursera Deep Learning.AI course) <br>
 
 ## Career </br>
 - Now. Deco Indco Ltd Project Manager, Seoul
-- 2023.02 - 2024.09 Hanjin Logistics DT전략실 Assistant 
+- 2023.02 - 2024.09 Hanjin Logistics DT Strategy Assistant 
   - NW Infra Engineer
-  - Smart Office service Rollout QA support
+  - Smart Office service Rollout support
   
 ## Language & Extracurricular
 
   - English: Fluent
   
 - 2019.08-2021.04 Conscripted Fire Brigade
-- 2025- Now @Kaiart 정회원 <br>
+- 2025- Now @Kaiart  <br>
 Member of Korea AI Writers Association )
 
   <!---
