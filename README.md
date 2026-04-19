@@ -1,9 +1,8 @@
 ## WHO AM I
-Hi I am Engineer Kimsangho <br>
-- from 1997.03.22 seoul <br>
+Hi I am Engineer Kimsangho from 1997.03.22 seoul <br>
   
 - 📫 personal Mail : stevekim97g@gmail.com <br>
-- 💻 Tech Stack <br> 
+- 💻 Tech Stack <br> <br>
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
@@ -21,10 +20,9 @@ Hi I am Engineer Kimsangho <br>
   - NW Infra Engineer
   - Smart Office service Rollout support
   
-## Language & Extracurricular
+## Extracurricular
 
-  - English: Fluent
-  
+- English: Fluent
 - 2019.08-2021.04 Conscripted Fire Brigade
 - 2025- Now @Kaiart  <br>
 Member of Korea AI Writers Association )
