@@ -1,5 +1,5 @@
 ## WHO AM I
-Hi I am Engineer Kimsangho from 1997.03.22 seoul <br>
+Hi I am Kimsangho from 1997.03.22 seoul <br>
   
 - 📫 personal Mail : stevekim97g@gmail.com <br>
 - 💻 Tech Stack <br> <br>
@@ -14,9 +14,10 @@ Hi I am Engineer Kimsangho from 1997.03.22 seoul <br>
 - 17.03 -23.02 🎓 B.S. Dongguk University Seoul, Computer Engineering <br>
 - 22.06- 22.12 KakaoCloudschool Engineer <br>
 - 23.11 🇬oogle MLB (Coursera Deep Learning.AI course, Google korea) <br>
+- 이어드림스쿨 AI 6기
 
 ## Career </br>
-- 2023.02 - 2024.09 Hanjin Logistics DT Strategy Assistant 
+- 2023.02 - Hanjin Logistics DT Strategy Assistant 
   - NW Infra Engineer
   - Smart Office service Rollout support
   
@@ -25,7 +26,7 @@ Hi I am Engineer Kimsangho from 1997.03.22 seoul <br>
 - English: Fluent
 - 2019.08-2021.04 Conscripted Fire Brigade
 - 2025- Now @Kaiart  <br>
-Member of Korea AI Writers Association )
+Member of Korea AI Writers Association
 
   <!---
 ksh322/ksh322 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
